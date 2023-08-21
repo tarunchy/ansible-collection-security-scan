@@ -1,0 +1,10 @@
+---
+plugin: servicenow.servicenow.now
+instance: 
+username: 
+password: 
+selection_order: name
+enhanced: True
+#keyed_groups:
+#    - key: sn_sys_class_name
+#      prefix: sn

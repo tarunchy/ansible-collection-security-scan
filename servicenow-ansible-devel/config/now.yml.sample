@@ -1,0 +1,5 @@
+plugin: servicenow.servicenow.now
+instance: 
+username: 
+password: 
+cache: True
